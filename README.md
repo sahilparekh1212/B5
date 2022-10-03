@@ -1,3 +1,8 @@
 ### Bootstrap Project
-Project Id: B5
-Project Focus: To create a web project which uses Bootstrap-5 for styling.
+Project Id: Responsive Bootstrap Only Project
+
+Project Description: 
+This project uses Only Bootstrap. Page styling, responsiveness and interactability is implemented by Bootstrap. 
+
+Note: 
+Custom CSS and custom javascript are not used.
